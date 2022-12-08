@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
-*main - prints the standard error sandwitched around the output
+*main - prints to string
 *description-print "and that piece of art is useful" - Dora Korpar, 2015-10-19"
-*return:0
+*return: 1
 */
 int main(void)
 {
