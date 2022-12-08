@@ -1,9 +1,9 @@
 #include<unistd.h>
 /**
-*main - main function of the projet
-*description:print "and that piece of art is useful" - Dora Korpar, 2015-10-19"
-*main
-*return: 1
+*main - Main function of the projet
+*
+*
+*Return: return 0 all the time
 */
 int main(void)
 {
