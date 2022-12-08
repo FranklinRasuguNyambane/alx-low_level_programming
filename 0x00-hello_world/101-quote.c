@@ -1,8 +1,8 @@
 #include<unistd.h>
 /**
 *main-entry point
-*description-prints "and that piece of art is useful" - Dora Korpar, 2015-10-19"
-*return:1
+*description-print "and that piece of art is useful" - Dora Korpar, 2015-10-19"
+*return:returns 1
 */
 int main(void)
 {
