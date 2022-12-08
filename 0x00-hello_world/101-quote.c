@@ -2,7 +2,7 @@
 /**
 *main - prints the standard error sandwitched around the output
 *description-print "and that piece of art is useful" - Dora Korpar, 2015-10-19"
-*return:returns 1
+*return:0
 */
 int main(void)
 {
