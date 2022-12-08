@@ -1,7 +1,8 @@
 #include<unistd.h>
 /**
-*main - Entry point
+*main - main function of the projet
 *description:print "and that piece of art is useful" - Dora Korpar, 2015-10-19"
+*main
 *return: 1
 */
 int main(void)
