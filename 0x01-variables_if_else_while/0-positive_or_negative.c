@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - entry point
-*Return : 0
+*main - Main function of the project
+*Return: return 0 all the time
 */
 int main(void)
 {
