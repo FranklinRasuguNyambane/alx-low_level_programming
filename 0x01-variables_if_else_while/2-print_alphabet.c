@@ -1,4 +1,4 @@
-#include <stdoio.h>
+#include <stdio.h>
 /**
 *main - Main function of the project
 *Return: return 0 always
