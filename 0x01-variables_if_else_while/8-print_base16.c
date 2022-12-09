@@ -17,4 +17,4 @@ for (c = 'a'; c <= 'f'; c++)
 putchar(c);
 }
 putchar('\n');
-retutn (0);
+return (0);
