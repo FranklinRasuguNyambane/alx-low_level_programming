@@ -4,10 +4,10 @@
 */
 void print_numbers(void)
 {
-int x;
-for (x = 48; x < 58; x++)
+int i;
+for (i = '0'; i <= '9'9; i++)
 {
-_putchar(x);
+_putchar(i);
 }
 _putchar('\n');
 }
