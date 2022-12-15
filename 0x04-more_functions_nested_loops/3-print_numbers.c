@@ -9,5 +9,5 @@ for (x = 48; x < 58; x++)
 {
 _putchar(x);
 }
-_putchar(10);
+_putchar('\n');
 }
